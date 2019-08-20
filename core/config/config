@@ -2,16 +2,16 @@
 ATOMIC = 100000000
 
 # true block weight
-START_BLOCK = 0
-NETWORK = "network"
-DATABASE_USER = "dbname"
-DELEGATE = "delegate"
-PUBLIC_KEY = "publicKey"
-INTERVAL = 211
+START_BLOCK = 87319
+NETWORK = "bpl_mainnet"
+DATABASE_USER = "seatrips"
+DELEGATE = "seatrips"
+PUBLIC_KEY = "0266477d1201537f0bf790f353a193725581a3e093da7fda3f49b78bad2acfdebe"
+INTERVAL = 51
 VOTER_SHARE = 0.50
-PASSPHRASE = "passphrase"
-SECONDPHRASE = "None"
-VOTER_MSG = "Delegate X - True Block Weight"
+PASSPHRASE = ""
+SECONDPHRASE = ""
+VOTER_MSG = "Delegate seatrips - True Block Weight Test"
 BLOCK_CHECK = 30
 COVER_TX_FEE = "Y"
 VOTE_CAP = 0
@@ -24,13 +24,13 @@ BLACKLIST_ADDR = "addr1,addr2,addr3"
 BLACKLIST_ASSIGN = "addr"
 MIN_PAYMENT = 0.5
 KEEP = "reserve:0.25,second:0.25"
-PAY_ADDRESSES = "reserve:addr1,second:addr2"
+PAY_ADDRESSES = "reserve:B9UnBvJgYQRcBTQiCnWRJv7rYrrXx3keTz,second:B6EpzsxgxSy7Sf2K1H5cx4sQM4aRk98jcb"
 
 # pool
-POOL_IP = "xx.xx.xx.xx"
-EXPLORER = "https://dexplorer.ark.io/"
-COIN = "DARK"
-PROPOSAL = "https://xx.xx.xx/"
+POOL_IP = ""
+EXPLORER = "https://explorer.blockpool.io/"
+COIN = "BPL"
+PROPOSAL = ""
 POOL_PORT = 5000
 CUSTOM_PORT = 5004
 POOL_VERSION = "original"
