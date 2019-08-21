@@ -4,7 +4,7 @@
 
 ```sh
 Install and sync relay server
-git clone https://github.com/galperins4/core2_tbw
+git clone -b add_bpl https://github.com/seatrips/core2_tbw.git
 cd ~/core2_tbw/core/config
 nano config
 fill out config (see below)
