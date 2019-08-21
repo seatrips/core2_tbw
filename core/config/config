@@ -20,14 +20,14 @@ FIXED = "addr1:0,addr2:0"
 WHITELIST = "N"
 WHITELIST_ADDR = "addr1,addr2,addr3"
 BLACKLIST = "block"
-BLACKLIST_ADDR = "addr1,addr2,addr3"
-BLACKLIST_ASSIGN = "addr"
+BLACKLIST_ADDR = "BPe2MPyEoLGTf2BvvjFe63dcY2LAcTQdsd"
+BLACKLIST_ASSIGN = "B9UnBvJgYQRcBTQiCnWRJv7rYrrXx3keTz"
 MIN_PAYMENT = 0.5
 KEEP = "reserve:0.25,second:0.25"
 PAY_ADDRESSES = "reserve:B9UnBvJgYQRcBTQiCnWRJv7rYrrXx3keTz,second:B6EpzsxgxSy7Sf2K1H5cx4sQM4aRk98jcb"
 
 # pool
-POOL_IP = ""
+POOL_IP = "IPADDRESSOFPOOLSERVER"
 EXPLORER = "https://explorer.blockpool.io/"
 COIN = "BPL"
 PROPOSAL = ""
